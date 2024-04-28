@@ -59,11 +59,6 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 </a>
 
 <a href="https://github.com/Miguel-Antonio-Martinez-Jimenez">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Antonio-Martinez-Jimenez&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-</a>
-
-
-<a href="https://github.com/Miguel-Antonio-Martinez-Jimenez">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-Antonio-Martinez-Jimenez&theme=radical&border=7F3FBF&background=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-Antonio-Martinez-Jimenez&theme=radical&border=7F3FBF&background=0D1117" height="192px" width="49.5%"/>
 </a>
 
