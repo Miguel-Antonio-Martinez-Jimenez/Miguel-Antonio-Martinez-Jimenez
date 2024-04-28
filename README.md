@@ -9,8 +9,8 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-563d7c?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563d7c)
 [![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](https://www.python.org/)
 [![Ruby](https://img.shields.io/badge/ruby-ae1401?style=for-the-badge&labelColor=black&logo=ruby&logoColor=ae1401)](https://www.ruby-lang.org/)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -22,8 +22,8 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 [![Rails](https://img.shields.io/badge/rails-ae1401?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=ae1401)](https://rubyonrails.org/)
 [![Postman](https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&labelColor=black&logo=postman&logoColor=ff6c37)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/figma-0acf83?style=for-the-badge&labelColor=black&logo=figma&logoColor=0acf83)](https://www.figma.com/)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=white)
 
 
 ![@SoulCodeSeeker Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguel-Antonio-Martinez-Jimenez&custom_title=@SoulCodeSeeker%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
