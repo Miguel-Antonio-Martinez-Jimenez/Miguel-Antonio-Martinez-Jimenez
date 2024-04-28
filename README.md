@@ -53,4 +53,4 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 ![Git]([https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg))
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguel-Antonio-Martinez-Jimenez_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![@SoulCodeSeeker Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguel-Antonio-Martinez-Jimenez&custom_title=@SoulCodeSeeker%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
