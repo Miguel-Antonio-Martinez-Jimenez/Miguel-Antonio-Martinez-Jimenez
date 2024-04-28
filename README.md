@@ -1,4 +1,4 @@
-# Miguel Antonio - @SoulCodeSeeker
+# Miguel Antonio - SoulCodeSeeker
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <br>
 
