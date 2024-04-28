@@ -1,4 +1,4 @@
-# 🚀 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&text=Miguel%20Antonio&color=F7F7F7&random=false&width=435&lines=Martinez+Jimenez;-+SoulCodeSeeker;-+MiguelMartinez30)](https://git.io/typing-svg)
+# 🚀 Miguel Antonio - SoulCodeSeeker
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <br>
 
