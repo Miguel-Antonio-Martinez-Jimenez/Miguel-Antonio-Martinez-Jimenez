@@ -46,6 +46,6 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 ## ☕ Conectate Conmigo!
 
 [![Followers](https://custom-icon-badges.demolab.com/github/followers/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?tab=followers) 
-[![My Website Portfolio](https://img.shields.io/badge/My%20Website%20Portfolio-51b3b1?style=for-the-badge&logoColor=white)](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io) 
+[![My Website Portfolio](https://img.shields.io/badge/-My%20web%20portfolio-0073b2?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io) 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0073b2?style=for-the-badge&labelColor=black&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
 [![Gmail](https://img.shields.io/badge/-gmail-ee4436?style=for-the-badge&labelColor=black&logo=gmail&logoColor=ffffff)](mailto:miguelantoniomartinezjimenez00@gmail.com)
