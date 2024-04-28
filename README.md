@@ -18,7 +18,7 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 ![Android](https://img.shields.io/badge/android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)
 ![SQL Server](https://img.shields.io/badge/sqlserver-a62c39?style=for-the-badge&labelColor=black&logo=MicrosoftSQLServer&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/mysql-ae6f06?style=for-the-badge&labelColor=black&logo=mysql&logoColor=ffffff)
-![.NET](https://img.shields.io/badge/microdoft.net-1c7faf?style=for-the-badge&labelColor=black&logo=.net&logoColor=ffffff)
+![.NET](https://img.shields.io/badge/.net-1c7faf?style=for-the-badge&labelColor=black&logo=.net&logoColor=ffffff)
 ![Rails](https://img.shields.io/badge/rails-ae1401?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=ae1401)
 ![Postman](https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&labelColor=black&logo=postman&logoColor=ff6c37)
 ![Figma](https://img.shields.io/badge/figma-0acf83?style=for-the-badge&labelColor=black&logo=figma&logoColor=0acf83)
