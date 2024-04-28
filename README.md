@@ -42,6 +42,3 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 <a href="https://github.com/Miguel-Antonio-Martinez-Jimenez">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-Antonio-Martinez-Jimenez&theme=radical&border=7F3FBF&background=0D1117" height="192px" width="49.5%"/>
 </a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
