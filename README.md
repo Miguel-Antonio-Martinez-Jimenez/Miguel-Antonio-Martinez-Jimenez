@@ -1,4 +1,4 @@
-# Miguel Antonio - SoulCodeSeeker
+# 🚀 Miguel Antonio - SoulCodeSeeker
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <br>
 
@@ -32,7 +32,7 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 
 
 
-## Estadisticas!
+## 📊 Estadisticas!
 ![@SoulCodeSeeker Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguel-Antonio-Martinez-Jimenez&custom_title=@SoulCodeSeeker%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <a href="https://github.com/Miguel-Antonio-Martinez-Jimenez">
