@@ -6,7 +6,7 @@
 
 Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de convertirme en un programador fullstack. Actualmente, estoy enfocado en desarrollar habilidades técnicas, resolver problemas y completar un proyecto de tesis centrado en la optimización del registro de datos. Además de mis estudios, he obtenido certificados y estoy participando en cursos adicionales, incluyendo uno en programación en la nube en UPNIFY. Si deseas colaborar en proyectos emocionantes o simplemente charlar sobre tecnología, no dudes en ponerte en contacto conmigo a través de mi correo electrónico.
 
-## 🧰 Lenguajes y Herramientas!
+## 🧰 ¡Lenguajes y Herramientas!
 ![C#](https://img.shields.io/badge/-C%23-61DBFB?style=for-the-badge&labelColor=black&logo=Csharp&logoColor=61DBFB)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-563d7c?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563d7c)
@@ -32,7 +32,7 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 
 
 
-## 📊 Estadisticas!
+## 📊 ¡Estadisticas!
 ![@SoulCodeSeeker Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguel-Antonio-Martinez-Jimenez&custom_title=MiguelMartinez30%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <a href="https://github.com/Miguel-Antonio-Martinez-Jimenez">
@@ -43,7 +43,7 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-Antonio-Martinez-Jimenez&theme=radical&border=7F3FBF&background=0D1117" height="192px" width="49.5%"/>
 </a>
 
-## ☕ Conectate Conmigo!
+## ☕ ¡Conectate Conmigo!
 <div align="center">
   
 [![Followers](https://custom-icon-badges.demolab.com/github/followers/Miguel-Antonio-Martinez-Jimenez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/Miguel-Antonio-Martinez-Jimenez?tab=followers) 
