@@ -6,7 +6,7 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 ## 🧰 Languages and Tools!
 [![C#](https://img.shields.io/badge/-C%23-61DBFB?style=for-the-badge&labelColor=black&logo=Csharp&logoColor=61DBFB)](https://es.wikipedia.org/wiki/C_Sharp)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-563d7c?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563d7c)
 [![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](https://www.python.org/)
 [![Ruby](https://img.shields.io/badge/ruby-ae1401?style=for-the-badge&labelColor=black&logo=ruby&logoColor=ae1401)](https://www.ruby-lang.org/)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,7 +14,7 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-react%20native-20232a?style=for-the-badge&labelColor=black&logo=react&logoColor=61dbfb)
 [![Android](https://img.shields.io/badge/android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](https://www.android.com/)
 [![SQL Server](https://img.shields.io/badge/sqlserver-a62c39?style=for-the-badge&labelColor=black&logo=MicrosoftSQLServer&logoColor=ffffff)](https://www.microsoft.com/sql-server)
 [![MySQL](https://img.shields.io/badge/mysql-ae6f06?style=for-the-badge&labelColor=black&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
