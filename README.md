@@ -5,6 +5,6 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 
 ## 🧰 Languages and Tools!
 ### Programming Languages
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<div align="">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/>
 </div>  
