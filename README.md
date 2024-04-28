@@ -52,9 +52,7 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Git]([https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg))
 
-<a href="https://github.com/Miguel-Antonio-Martinez-Jimenez">
 ![@SoulCodeSeeker Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguel-Antonio-Martinez-Jimenez&custom_title=@SoulCodeSeeker%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-</a>
 
 <a href="https://github.com/Miguel-Antonio-Martinez-Jimenez">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Miguel-Antonio-Martinez-Jimenez&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
