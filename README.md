@@ -1,11 +1,11 @@
 #
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&weight=100&size=25&pause=200&color=F7F7F7&center=true&vCenter=true&width=900&height=30&lines=Antonio+Martinez+-+%40DevDarkSonic;Programmer+and+Developer;+Future+Software+Engineer+and++Naval+System+Engineer)](https://git.io/typing-svg)
 
-¡Hola!
+Hello!
 
-Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de convertirme en un programador fullstack. Actualmente, estoy enfocado en desarrollar habilidades técnicas, resolver problemas y completar un proyecto de tesis centrado en la optimización del registro de datos. Además de mis estudios, he obtenido certificados y estoy participando en cursos adicionales, incluyendo uno en programación en la nube en UPNIFY. Si deseas colaborar en proyectos emocionantes o simplemente charlar sobre tecnología, no dudes en ponerte en contacto conmigo a través de mi correo electrónico.
+I am Miguel Antonio, a software engineering student with the goal of becoming a fullstack programmer. Currently, I am focused on developing technical skills, problem solving, and completing a thesis project focused on data logging optimization. In addition to my studies, I earned certificates and am participating in additional courses, including one in cloud programming at UPNIFY. If you want to collaborate on exciting projects or just chat about technology, feel free to contact me via email.
 
-## 🧰 ¡Lenguajes y Herramientas!
+## 🧰 ¡Languages ​​and Tools!
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-fedf2a?style=for-the-badge&labelColor=black&logo=JAVASCRIPT&logoColor=fedf2a)
 ![C#](https://img.shields.io/badge/C%23-731c84?style=for-the-badge&labelColor=black&logo=csharp&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-08609f?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=ffffff)
@@ -70,7 +70,7 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 </div>
 
 
-## ☕ ¡Conectate Conmigo!
+## ☕ ¡Connect with me!
 <div align="center">
   
 [![Followers](https://custom-icon-badges.demolab.com/github/followers/Miguel-Antonio-Martinez-Jimenez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/Miguel-Antonio-Martinez-Jimenez?tab=followers) 
