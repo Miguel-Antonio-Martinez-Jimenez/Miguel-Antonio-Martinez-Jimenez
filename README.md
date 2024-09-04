@@ -1,5 +1,5 @@
 #
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&weight=100&size=25&pause=200&color=F7F7F7&center=true&vCenter=true&width=900&height=30&lines=Antonio+Martinez+-+%40DevDarkSonic;Programmer+and+Developer;+Future+Software+Engineer+and++Naval+System+Engineer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&weight=100&size=25&pause=200&color=F7F7F7&center=true&vCenter=true&width=900&height=30&lines=Antonio+Martinez+-+%40DevDarkSonic;Programmer+and+Developer;+Future+Software+Engineer+and++Naval+System+Engineer)]([https://git.io/typing-svg](https://github.com/Miguel-Antonio-Martinez-Jimenez))
 
 Hello!
 
@@ -65,7 +65,7 @@ I am Miguel Antonio, a software engineering student with the goal of becoming a 
 ## 📊 Streak Starts
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miguel-Antonio-Martinez-Jimenez&theme=dark&border_radius=5&locale=es&card_width=500&card_height=190)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miguel-Antonio-Martinez-Jimenez&theme=dark&border_radius=5&locale=es&card_width=500&card_height=190)]([https://git.io/streak-stats](https://github.com/Miguel-Antonio-Martinez-Jimenez))
   
 </div>
 
