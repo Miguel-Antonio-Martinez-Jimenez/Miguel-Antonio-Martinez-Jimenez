@@ -65,7 +65,7 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 ## Streak Starts
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-Antonio-Martinez-Jimenez&border=1f1f22&background=303030&theme=dark&card_width=400&card_height=150)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miguel-Antonio-Martinez-Jimenez&theme=dark&border_radius=5&locale=es&card_width=500&card_height=190)](https://git.io/streak-stats)
   
 </div>
 
