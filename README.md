@@ -63,11 +63,10 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 ![LENOVO LAPTOP](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&labelColor=black&logoColor=white)
 
 ## Streak Starts
-<center>
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-Antonio-Martinez-Jimenez&border=1f1f22&background=303030&theme=dark&card_width=650&card_height=240)
+<p align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-Antonio-Martinez-Jimenez&border=1f1f22&background=303030&theme=dark&card_width=400&card_height=150)
+</p>
 
-</center>
 
 ## ☕ ¡Conectate Conmigo!
 <div align="center">
