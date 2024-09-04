@@ -62,7 +62,7 @@ Soy Miguel Antonio, un estudiante de ingeniería en software con la meta de conv
 ![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-000000?style=for-the-badge&logo=terminal&logoColor=white)
 ![LENOVO LAPTOP](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&labelColor=black&logoColor=white)
 
-## Streak Starts
+## 📊 Streak Starts
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miguel-Antonio-Martinez-Jimenez&theme=dark&border_radius=5&locale=es&card_width=500&card_height=190)](https://git.io/streak-stats)
