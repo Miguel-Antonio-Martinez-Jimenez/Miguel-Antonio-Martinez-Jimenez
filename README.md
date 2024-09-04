@@ -1,5 +1,5 @@
 #
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&weight=100&size=25&pause=2000&color=F7F7F7&center=true&vCenter=true&width=900&height=30&lines=Antonio+Martinez+-+%40DevDarkSonic;Ing.+Software)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&weight=100&size=25&pause=2000&color=F7F7F7&center=true&vCenter=true&width=900&height=30&lines=Antonio+Martinez+-+%40DevDarkSonic;Hola)](https://git.io/typing-svg)
 
 ¡Hola!
 
