@@ -5,7 +5,7 @@ Hello!
 
 I am Miguel Antonio, a software engineering student with the goal of becoming a fullstack programmer. Currently, I am focused on developing technical skills, problem solving, and completing a thesis project focused on data logging optimization. In addition to my studies, I earned certificates and am participating in additional courses, including one in cloud programming at UPNIFY. If you want to collaborate on exciting projects or just chat about technology, feel free to contact me via email.
 
-## 🧰 ¡Languages ​​and Tools!
+## 🧰 Languages ​​and Tools
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-fedf2a?style=for-the-badge&labelColor=black&logo=JAVASCRIPT&logoColor=fedf2a)
 ![C#](https://img.shields.io/badge/C%23-731c84?style=for-the-badge&labelColor=black&logo=csharp&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-08609f?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=ffffff)
@@ -77,7 +77,7 @@ I am Miguel Antonio, a software engineering student with the goal of becoming a 
 </div>
 
 
-## ☕ ¡Connect with me!
+## ☕ Connect with me
 <div align="center">
   
 [![Followers](https://custom-icon-badges.demolab.com/github/followers/Miguel-Antonio-Martinez-Jimenez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/Miguel-Antonio-Martinez-Jimenez?tab=followers)
