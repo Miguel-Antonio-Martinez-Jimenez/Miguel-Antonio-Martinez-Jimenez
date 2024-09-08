@@ -62,6 +62,13 @@ I am Miguel Antonio, a software engineering student with the goal of becoming a 
 ![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-000000?style=for-the-badge&logo=terminal&logoColor=white)
 ![LENOVO LAPTOP](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&labelColor=black&logoColor=white)
 
+## 🌟 Completed Projects
+<div align="center">
+
+[![Arbol Binario](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Arbol.Binario&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Poo-Estructura23CV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Calculadora_WPF&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Poo-Estructura23CV)
+</div>
+
 ## 📊 Streak Starts
 <div align="center">
   
