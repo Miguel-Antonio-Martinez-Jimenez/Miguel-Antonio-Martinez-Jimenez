@@ -73,7 +73,6 @@ I am Miguel Antonio, a software engineering student with the goal of becoming a 
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miguel-Antonio-Martinez-Jimenez&theme=dark&border_radius=5&locale=es&card_width=500&card_height=190)]([https://git.io/streak-stats](https://github.com/Miguel-Antonio-Martinez-Jimenez))
-  
 </div>
 
 
