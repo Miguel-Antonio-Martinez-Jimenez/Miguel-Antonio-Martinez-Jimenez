@@ -65,9 +65,11 @@ I am Miguel Antonio, a software engineering student with the goal of becoming a 
 ## 🌟 Completed Projects
 <div align="center">
 
-[![Arbol Binario](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Arbol.Binario&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Poo-Estructura23CV)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Calculadora_WPF&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Poo-Estructura23CV)
+[![Arbol Binario](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Arbol.Binario&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Arbol.Binario)
+[![Calculadora WPF](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Calculadora_WPF&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Calculadora_WPF)
+[![Tienda POO Estructura](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Tienda_POO_Estructura&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Tienda_POO_Estructura)
 </div>
+
 
 ## 📊 Streak Starts
 <div align="center">
