@@ -69,7 +69,7 @@ I am Miguel Antonio, a software engineering student with the goal of becoming a 
 [![Tienda POO Estructura](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Tienda_POO_Estructura&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Tienda_POO_Estructura)
 </div>
 
-## 🏅My Best Projects
+## 🏅My Best Projects `completed`
 <div align="center">
 
 [![Data Shelf Master](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Data_Shelf_Master&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Data_Shelf_Master)
