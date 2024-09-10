@@ -65,24 +65,30 @@ I am Miguel Antonio, a software engineering student with the goal of becoming a 
 ## 🌟 Completed Projects
 <div align="center">
 
-[![Calculadora WPF](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Calculadora_WPF&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Calculadora_WPF)
-[![Tienda POO Estructura](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Tienda_POO_Estructura&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Tienda_POO_Estructura)
+[![Calculadora WPF](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Calculadora_WPF&&theme=dark&text_color=ffffff&border_color=151515&icon_color=080ab4)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Calculadora_WPF)
+[![Tienda POO Estructura](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Tienda_POO_Estructura&&theme=dark&text_color=ffffff&border_color=151515&icon_color=080ab4)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Tienda_POO_Estructura)
 </div>
 
 ## 🏅My Best Projects 
 <div align="center">
 
-[![Data Shelf Master](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Data_Shelf_Master&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Data_Shelf_Master)
-[![Arbol Binario](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Arbol.Binario&&theme=dark&text_color=ffffff&border_color=151515)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Arbol_Binario)
+[![Data Shelf Master](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Data_Shelf_Master&&theme=dark&text_color=ffffff&border_color=151515&icon_color=080ab4)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Data_Shelf_Master)
+[![Arbol Binario](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-Antonio-Martinez-Jimenez&repo=Arbol.Binario&&theme=dark&text_color=ffffff&border_color=151515&icon_color=080ab4)](https://github.com/Miguel-Antonio-Martinez-Jimenez/Arbol_Binario)
 </div>
 
+## 🏆 My Stats
+<div align="center">
+
+[![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Antonio-Martinez-Jimenez&theme=dark&border_color=151515&show_icons=true&icon_color=080ab4&custom_title=@DevDarkSoni%20GitHub%20Stats&text_color=ffffff&line_height=25&text_size=1)](https://github.com/Miguel-Antonio-Martinez-Jimenez)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miguel-Antonio-Martinez-Jimenez&theme=dark)](https://github.com/Miguel-Antonio-Martinez-Jimenez)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miguel-Antonio-Martinez-Jimenez&theme=dark&text_color=ffffff&border_color=151515&icon_color=080ab4)](https://github.com/Miguel-Antonio-Martinez-Jimenez)
+</div>
 
 ## 📊 Streak Starts
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miguel-Antonio-Martinez-Jimenez&theme=dark&border=151515&border_radius=5&locale=es&card_width=500&card_height=190)]([https://git.io/streak-stats](https://github.com/Miguel-Antonio-Martinez-Jimenez))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miguel-Antonio-Martinez-Jimenez&theme=dark&border=151515&border_radius=5&locale=es&card_width=500&card_height=190&icon_color=080ab4)](https://github.com/Miguel-Antonio-Martinez-Jimenez)
 </div>
-
 
 ## ☕ Connect with me
 <div align="center">
