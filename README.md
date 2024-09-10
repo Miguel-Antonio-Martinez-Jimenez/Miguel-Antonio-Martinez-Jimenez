@@ -97,5 +97,4 @@ I am Miguel Antonio, a software engineering student with the goal of becoming a 
 [![My Website Portfolio](https://img.shields.io/badge/MY_WEB_PORTFOLIO-1a1b1f?style=for-the-badge&labelColor=black&logo=About.me&logoColor=white)](https://Miguel-Antonio-Martinez-Jimenez.github.io)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0079b5?style=for-the-badge&labelColor=black&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
 [![Gmail](https://img.shields.io/badge/-gmail-e63b24?style=for-the-badge&labelColor=black&logo=gmail&logoColor=ffffff)](mailto:miguelantoniomartinezjimenez00@gmail.com)
-
 </div>
