@@ -3,7 +3,15 @@
 
 Hello!
 
-I am Miguel Antonio, a software engineering student with the goal of becoming a fullstack programmer. Currently, I am focused on developing technical skills, problem solving, and completing a thesis project focused on data logging optimization. In addition to my studies, I earned certificates and am participating in additional courses, including one in cloud programming at UPNIFY. If you want to collaborate on exciting projects or just chat about technology, feel free to contact me via email.
+I am **Miguel Martínez**, a _Software Engineering student_ with the goal of becoming a _**Fullstack developer**_. I am passionate about learning and applying both backend and frontend technologies to create efficient and comprehensive solutions. Throughout my training, I have worked with various technologies, which has allowed me to develop a solid technical foundation in the development of complete systems, from the logic and structure of databases to the design of user-friendly interfaces.
+
+Among my technical skills are **Node.js, Express, MySQL** in the backend, and **React.js, HTML5, CSS3, JavaScript** in the frontend. In addition, I handle tools such as **Git, Firebase**, and I have been involved in hardware projects using **Arduino and ESP32**. My current focus is on improving my skills and continuing to acquire knowledge to solve complex problems creatively and efficiently.
+
+Currently, I am developing a **File Management System**, a platform designed to facilitate the organization, storage, and sharing of files with a strong focus on security and usability. This project, besides improving my portfolio, allows me to apply both my backend and frontend skills in a practical environment.
+
+Outside of software development, I have a keen interest in **robotics**. I participate in the **Robotics Workshop**, where I work with **VEX 5 robots**, programming them with **VEXcode Pro V5** to overcome various challenges. This experience has allowed me to expand my knowledge about the interaction between technology and the physical world, adding a new dimension to my problem-solving approach.
+
+If you are interested in collaborating on projects or discussing new technologies, please feel free to contact me. I am open to new ideas, collaborations, and learning opportunities.
 
 ## 🧰 Languages ​​and Tools
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-fedf2a?style=for-the-badge&labelColor=black&logo=JAVASCRIPT&logoColor=fedf2a)
